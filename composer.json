@@ -1,0 +1,11 @@
+{
+	"name": "stan-hubbub/infoplus-be",
+	"description": "Information System Backend (Info+)",
+	"license": "proprietary",
+	"minimum-stability": "dev",
+	"require": {
+		"slim/slim": "^3.11",
+		"tuupola/slim-jwt-auth": "^3.1"
+	},
+	"type": "library"
+}
